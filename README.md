@@ -22,4 +22,4 @@ Correlation and Regression (the correlation coefficient is calculated for mouse 
 Observations and Insights (three observations/insights about the data are provided)
 
 
-Jupyter Notebook, Pandas, Matplotlib
+### Jupyter Notebook, Python, Pandas, Matplotlib
